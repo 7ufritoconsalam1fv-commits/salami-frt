@@ -5,14 +5,14 @@ Autor: alfre32
 Licencia: CC BY-NC 2.0  
 Uso: Uso educativo permitido, no comercial  
 
-![Mantarraya](mantarrayagigante.jpg)
+![Mantarraya gigante](mantarrayagigante.jpg)
 
 ## 🐢 Tortuga acuario
 Autor: fusky  
 Licencia: CC BY-NC-SA 2.0  
 Uso: Uso educativo, no comercial, compartir con la misma licencia  
 
-![Tortuga](tortuga.jpg)
+![Tortuga acuario](tortugaacuario.jpg)
 
 
 ## 🏖 Playa Morón
@@ -21,7 +21,7 @@ Licencia: CC0 1.0
 Uso: Uso libre (educativo, comercial y no comercial)  
 Tipo: Dominio público  
 
-![Playa](playa.jpg)
+![Playa Moron](playamoron.jpg)
 
 
 ## 🍨 Amazing Helados
@@ -30,7 +30,7 @@ Licencia: CC BY-ND 2.0
 Uso: Uso educativo, no comercial  
 Restricción: No se permiten modificaciones  
 
-![Helado](helado.jpg)
+![Amazing Helado](amazinghelado.jpg)
 
 
 ## 🎸 Instrumentos musicales emblemáticos del Perú
