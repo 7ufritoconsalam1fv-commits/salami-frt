@@ -5,14 +5,14 @@ Autor: alfre32
 Licencia: CC BY-NC 2.0  
 Uso: Uso educativo permitido, no comercial  
 
-![mantarraya gigante](mantarrayagigante.jpg)
+![Mantarraya gigante](img/mantarrayagigante.jpg)
 
 ## 🐢 Tortuga acuario
 Autor: fusky  
 Licencia: CC BY-NC-SA 2.0  
 Uso: Uso educativo, no comercial, compartir con la misma licencia  
 
-![Tortuga acuario](tortugaacuario.jpg)
+![tortuga acuario](tortugaacuario.jpg)
 
 
 ## 🏖 Playa Morón
