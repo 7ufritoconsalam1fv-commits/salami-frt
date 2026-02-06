@@ -5,7 +5,7 @@ Autor: alfre32
 Licencia: CC BY-NC 2.0  
 Uso: Uso educativo permitido, no comercial  
 
-![Mantarraya gigante](img/mantarrayagigante.jpg)
+![Mantarraya gigante](argentina/mantarrayagigante.jpg)
 
 ## 🐢 Tortuga acuario
 Autor: fusky  
